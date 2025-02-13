@@ -4,7 +4,7 @@
 The purpose of this project was to develop a Consulting Project Dashboard to effectively track project milestones, measure performance, and ensure the timely completion of deliverables. The dashboard provides a real-time overview of project progress, highlighting key phases such as client onboarding, execution, and completion.
 
 ## Data
-Consulting project performance & timeline [https://www.careerprinciples.com/]
+Consulting project performance & timeline(https://www.careerprinciples.com/)
 
 ## Key Performance Indicators (KPIs)
 1. Project Timeline Tracking – Start and end dates for each phase.
